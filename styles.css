@@ -1,1 +1,103 @@
+.row1{
+    display: inline-block;
+    background-color: burlywood;
+}
 
+.row2{
+    display: inline-block;
+}
+
+.title{
+    float: left;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title h1{
+    text-decoration: underline;
+}
+
+.title h3{
+    line-height: 0px;
+}
+
+.title p{
+    font-size: 12px;
+}
+
+.experience {
+    float: left;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.information {
+    text-align: right;
+}
+
+.information ul{
+    list-style-type: none;
+}
+
+.skills {
+    float: right;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.education{
+    float: right;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button1 {
+    background-color: chartreuse;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.button2 {
+    background-color: rebeccapurple;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.button3 {
+    background-color: orchid;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.button4 {
+    background-color: paleturquoise;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
